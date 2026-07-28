@@ -21,17 +21,6 @@ The environment consists of:
 - Windows 11 Client Machine
 - VMware isolated network
 
-- ## Current Progress
-
-✅ VMware isolated network created
-
-✅ Windows Server 2022 installed
-
-✅ Domain Controller configured
-
-✅ Active Directory Domain Services installed
-
-✅ DNS configured
 
 ## Technologies Used
 
