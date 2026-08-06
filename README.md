@@ -33,7 +33,6 @@ The lab consists of multiple virtual machines connected through an isolated VMwa
 | DC01 | Windows Server Domain Controller |
 | CLIENT01 | Windows Client Machine |
 | Ubuntu Server | Wazuh Manager / SIEM |
-| Kali Linux | Security Testing Machine |
 
 <img width="1264" height="843" alt="Gemini_Generated_Image_gmh1y0gmh1y0gmh1" src="https://github.com/user-attachments/assets/2a2ed443-67a3-4309-bc6d-cfcff3feb67c" />
 
