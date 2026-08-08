@@ -46,7 +46,6 @@ The lab consists of multiple virtual machines connected through an isolated VMwa
 - Windows Server
 - Windows 10/11 Client
 - Ubuntu Server
-- Kali Linux
 
 ## Identity & Security
 
